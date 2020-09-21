@@ -1,3 +1,3 @@
 # Hardening
-#Payarc Hardening for ubuntu
+#Hardening for ubuntu
 run the file myscript.sh to start the script
